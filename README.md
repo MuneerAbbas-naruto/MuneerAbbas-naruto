@@ -180,8 +180,8 @@ A full-featured social platform with real-time messaging, media sharing, and pus
 </td>
 <td width="50%" valign="top">
 
-### 🇦🇺 Australian Citizenship Quiz App
-Interactive quiz app to prepare users for the Australian Citizenship Test with progress tracking.
+### 🇦🇺 Quiz App
+Interactive quiz app to prepare users for the Test with progress tracking.
 
 **Highlights:**
 - Categorized question bank
